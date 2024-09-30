@@ -109,7 +109,7 @@ function Result({correct}) {
       
              )}
       
-      <a href='#'>
+      <a href='https://chmelyuk.github.io/quiz/'>
       <button>Попробовать снова</button>
       </a>
     </div>
