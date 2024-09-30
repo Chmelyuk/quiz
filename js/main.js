@@ -109,7 +109,7 @@ function Result({correct}) {
       
              )}
       
-      <a href='/'>
+      <a href='#'>
       <button>Попробовать снова</button>
       </a>
     </div>
